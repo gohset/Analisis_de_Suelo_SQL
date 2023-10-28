@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AE4900A5-9876-4755-9C0A-FA20F1C65D3B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Analisis_de_Suelo2.My.MyApplication</StartupObject>
+    <RootNamespace>Analisis_de_Suelo2</RootNamespace>
+    <AssemblyName>Analisis de Suelo2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Analisis de Suelo2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Analisis de Suelo2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="INICIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO.Designer.vb">
+      <DependentUpon>INICIO.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Presentacion.Designer.vb">
+      <DependentUpon>Presentacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_analisis.Designer.vb">
+      <DependentUpon>Reporte_analisis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_analisis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_Canton.Designer.vb">
+      <DependentUpon>Reporte_Canton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_Canton.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_cultivo.Designer.vb">
+      <DependentUpon>Reporte_cultivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_cultivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_provincia.Designer.vb">
+      <DependentUpon>Reporte_provincia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_provincia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO.resx">
+      <DependentUpon>INICIO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion.resx">
+      <DependentUpon>Presentacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_analisis.resx">
+      <DependentUpon>Reporte_analisis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_Canton.resx">
+      <DependentUpon>Reporte_Canton.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_cultivo.resx">
+      <DependentUpon>Reporte_cultivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_provincia.resx">
+      <DependentUpon>Reporte_provincia.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\fondo-sombra4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\fondo-sombra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_gruadar_agua1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_gruadar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_cerrar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_canton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_provincia2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_actualizar3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_apagar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_cancelar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_configuracion2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_ayuda3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_buscar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\punto_verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_atras3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_atras3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_canton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_provincia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_provincia2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_cultivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_cerrar5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_cultivo_vacio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\tierra1limo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\tierraorganicas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\tierraarcilla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_analizar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\tierraarcillosa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\tierraarenosa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\tierrafranca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BOTON_INFOR_CANTON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BOTON_INFOR_PROVINCIA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BOTON_INFOR_CT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BOTON_INFOR_ANALISIS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_canton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_analisis2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_cultivo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Formulario_provincia3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\set2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\presentacion2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_analisis3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_analisis2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_analisis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_actualizar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_actualizar3-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_apagar1-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_apagar1-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_ayuda3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_ayuda3-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_buscar3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_buscar3-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_cancelar3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_cancelar3-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_cerrar3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_cerrar3-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_configuracion2-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_configuracion2-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_gruadar3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_gruadar3-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_provincia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\boton_provincia2-1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,284 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AnalisisdeSuelo2
+</name>
+</assembly>
+<members>
+<member name="P:Analisis_de_Suelo2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_actualizar3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_actualizar3_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_actualizar3_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_analisis">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_analisis2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_analisis21">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_analisis3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_analisis31">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_analizar2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_apagar1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_apagar1_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_apagar1_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_atras3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_atras3_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_ayuda3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_ayuda3_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_ayuda3_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_buscar3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_buscar3_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_buscar3_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_cancelar3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_cancelar3_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_cancelar3_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_canton2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_cerrar3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_cerrar3_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_cerrar3_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_cerrar5">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_configuracion2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_configuracion2_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_configuracion2_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_gruadar_agua1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_gruadar3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_gruadar3_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_gruadar3_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.BOTON_INFOR_ANALISIS">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.BOTON_INFOR_CANTON">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.BOTON_INFOR_CT">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.BOTON_INFOR_PROVINCIA">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_provincia">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_provincia2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.boton_provincia2_1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.fondo_sombra">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.fondo_sombra4">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_analisis2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_canton">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_canton1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_cultivo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_cultivo_vacio">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_cultivo2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_provincia">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_provincia2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario_provincia3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.Formulario1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.presentacion2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.punto_verde">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.set2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.set21">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.tierra1limo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.tierraarcilla">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.tierraarcillosa">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.tierraarenosa">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.tierrafranca">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Analisis_de_Suelo2.My.Resources.Resources.tierraorganicas">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Analisis_de_Suelo2.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

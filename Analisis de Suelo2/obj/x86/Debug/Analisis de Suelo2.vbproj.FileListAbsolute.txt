@@ -1,0 +1,19 @@
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\bin\Debug\Analisis de Suelo2.exe
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\bin\Debug\Analisis de Suelo2.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\bin\Debug\Analisis de Suelo2.xml
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis_de_Suelo2.INICIO.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis_de_Suelo2.Resources.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis de Suelo2.vbproj.GenerateResource.Cache
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis de Suelo2.exe
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis de Suelo2.xml
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis de Suelo2.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis de Suelo2.vbprojResolveAssemblyReference.cache
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis_de_Suelo2.Reporte_Canton.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis_de_Suelo2.AboutBox1.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis_de_Suelo2.Presentacion.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis_de_Suelo2.Reporte_provincia.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis_de_Suelo2.Reporte_analisis.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo2\Analisis de Suelo2\obj\x86\Debug\Analisis_de_Suelo2.Reporte_cultivo.resources
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo SQL\Analisis de Suelo2\obj\x86\Debug\Analisis de Suelo2.exe
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo SQL\Analisis de Suelo2\obj\x86\Debug\Analisis de Suelo2.xml
+D:\VISUAL STUDIO PROGRAMACION IV\Analisis de Suelo SQL\Analisis de Suelo2\obj\x86\Debug\Analisis de Suelo2.pdb
